@@ -1,0 +1,22 @@
+body {
+    font-family: Microsoft JhengHei;
+}
+
+.my-col-img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.card-title{
+    color:lightslategray;
+    font-size: 22px;
+}
+
+  .card-text{
+    /* text-align: center;   */
+    color: black;
+    font-size: 16px;
+   }
+
+
+
